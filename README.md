@@ -2,6 +2,7 @@
 ## Training Manual for my Basic Introduction to Bioinformatics
 
 Born in the late 1980s, when the earth was still cooling.
+
 Tempered in the white spirit, brown beers, multi hued vinos and other mistakes of the 1990s.
 
 Tamed and beaten into the quivering submission by "The Mullan" in the early 2000s.
