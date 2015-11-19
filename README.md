@@ -9,6 +9,6 @@ Tamed and beaten into the quivering submission by "The Mullan" in the early 2000
 
 Nutured and tenderly stroked passed its natural date of demise by me since dear Lisa decided to dedicate herself to procriation and othe womanly pursuits (Circa 2004).
 
-Contributions from very many persons, mostly employees of the sadly missed HGMP Resource Centre (1990-2004 approximately). Not sure if they would wish to be mentioned, or would prefer that there involvement remained anonymous? Sure they will let me know if they feel concern.
+Contributions from very many persons, mostly employees of the sadly missed HGMP Resource Centre (1990-2004 approximately). Not sure if they would wish to be mentioned, or would prefer that there involvement remained anonymous? Sure they will let me know if they feel concern. I am more than happy to acknowledge the many contributions (including its fundamental theme) of this "opus terrible" emerged from greater souls than mine.
 
 
