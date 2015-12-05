@@ -1,0 +1,7 @@
+echo; echo; echo "Updating with git add -all / commit / push" echo
+
+git add --all .
+git commit
+git push
+
+echo; echo; echo "Done"; echo
