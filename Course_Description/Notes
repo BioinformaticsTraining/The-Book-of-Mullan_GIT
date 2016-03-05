@@ -15,3 +15,23 @@ with Oeiras 2015.04
 
 If I understand how git works, will not, generally, need to
 archived again? Probably will though :-)
+
+2016.03.05:
+===========
+
+Whilst I struggle for a decision of the deep self discussion above,
+I decide to update this to make it agree with the version
+incorporated in the book itself.
+
+Maybe I should maintain a separate document on the grounds I might
+want to just use a desciption of the intent, without the content?
+
+OK, but these notes are redundant as they would be incorporated in
+the commit notes of GIT.
+
+Yep, think that is the future ... except, I would not genarally 
+update this document each time I update BOM? So ... here I should
+just make a note .. maybe ... ?
+
+Hell! I dunno ... I will update if and when I feel like it. Yep,
+that works .. for now ..
