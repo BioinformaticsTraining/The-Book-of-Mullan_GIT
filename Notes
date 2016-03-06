@@ -1,0 +1,45 @@
+2016.03.06:
+===========
+
+bin:
+   A directory with scripts and reminders to help me do
+   all this GIT stuff without constantly reading the manual.
+
+Course_Description:
+   A stand alone ersion of the Course Description now
+   incorporated in the BOM.
+
+Windows_Installer:
+   An empty directory. Logically it should hold the installer
+   for all required Windows software. Currently this is far
+   too big and slow developing to put here. In the future,
+   maybe it will not be needed at all, or I will create a
+   more manageable version. Not much now needs to be
+   installed. I aim to use web resources exclusively in
+   future, if possible.
+
+Participant_Desktop:
+   Files to be set up on a participant's Desktop at the
+   start of the course.
+    - Working_Directory: (Start up files not obtainable
+      from real databases, currently just pax6_cdna.fasta)
+    - The BOM PDF file
+    - Backup_Files: A directory containing all the result
+      files required to enable a participnat to skip any
+      part of the exercises and still have all the
+      required data to continue.
+
+Sandbox:
+      A directory in which to do the exercises when
+      updating the BOM. I propose to save each version
+      with the most relevant course records.
+
+The_Book:
+      Latest BOM.odt. Plus a copy of the latest PDF? Plus
+      a copy of latest Sandbox? PDF and Sanbox included
+      only for convenience of not having to put them
+      meticulously where they logically belong for every
+      single commit.
+
+
+
