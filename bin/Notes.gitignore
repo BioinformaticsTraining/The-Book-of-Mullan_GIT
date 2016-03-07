@@ -1,0 +1,42 @@
+2016.03.07:
+===========
+
+I read mostly: http://git-scm.com/docs/gitignore
+Various ways to make a .gotignore file. I choose to just use an editor.
+I reckon a line:
+
+*~
+
+will stop all new backup files being saved, but ...
+one already on github will remain unless I do:
+
+git rm --cached
+
+which seems a bit dangerously non-specific? I try it. Maybe removed everything?
+Aha ... better:
+
+git rm -n --cached *~
+
+-n meaning dry run, and files specified at the end ... says there are not *~ files?
+Flipping well are!! I just made some!!
+Maybe I have to add them first?
+
+Well, first the command is:
+
+git rm -n -r "./*~"
+
+Not that it picks up the test cases I introduced, maybe because they were not added?
+Despite my attempts to add them?
+
+OK .. I test with a commit. End here if it works.
+
+.gitignore file reads, currently:
+
+****************************************
+
+# Do not track editor backup files throughout the repository
+######
+
+*~
+
+****************************************
