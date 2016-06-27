@@ -1,0 +1,150 @@
+============================================================
+Sat 26 Mar 23:23:24 2016: local alignment
+------------------------------------------------------------
+horizontal PERSONAL: pax6-genomic from 1 to 34170
+vertical PERSONAL: pax6-cDNA from 1 to 1698
+number of alignments 1 
+score for match 1
+score for transition -1
+score for transversion -1
+penalty for starting gap 6
+penalty for each residue in gap 0.2
+                 23672     23682     23692     23702     23712     23722
+        pax6-genomic AGATGGCTGCCAGCAACAGGAAGGAGGGGGAGAGAATACCAACTCCATCAGTTCCAACGG
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+           pax6-cDNA agatggctgccagcaacaggaaggagggggagagaataccaactccatcagttccaacgg
+                   939       949       959       969       979       989
+
+                 23732     23742     23752     23762     23772     23782
+        pax6-genomic AGAAGATTCAGATGAGGCTCAAATGCGACTTCAGCTGAAGCGGAAGCTGCAAAGAAATAG
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+           pax6-cDNA agaagattcagatgaggctcaaatgcgacttcagctgaagcggaagctgcaaagaaatag
+                   999      1009      1019      1029      1039      1049
+
+                 23792     23802     23812     23822     23832     23842
+        pax6-genomic AACATCCTTTACCCAAGAGCAAATTGAGGCCCTGGAGAAAGGTGATAGAGTTTTTCAAAG
+                     |||||||||||||||||||||||||||||||||||||||||                   
+           pax6-cDNA aacatcctttacccaagagcaaattgaggccctggagaaag...................
+                  1059      1069      1079      1089      1099         -
+
+                 23852     23862     23872     23882     23892     23902
+        pax6-genomic TAGAGAAGCAGTAAATCAAAGTAAATGCCACATCTTCAGTACAAAGAGCTAAATTTAGCC
+                                                                                 
+           pax6-cDNA ............................................................
+                     -         -         -         -         -         -
+
+                 23912     23922     23932     23942     23952     23962
+        pax6-genomic AGGGCCCTTTGCATAGAAGAATGAAAAGATTTCCTTTTTTCTGTCTTTTTATTTCTCTGG
+                                                                                 
+           pax6-cDNA ............................................................
+                     -         -         -         -         -         -
+
+                 23972     23982     23992     24002     24012     24022
+        pax6-genomic GCATCTTTTCAGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTG
+                                                                                 
+           pax6-cDNA ............................................................
+                     -         -         -         -         -         -
+
+                 24032     24042     24052     24062     24072     24082
+        pax6-genomic TGTGTGTGTGGTGTGTGTGTGTGTGTTTCTTCTTTTCATCTACCAGTAATTCAAAGACTA
+                                                                                 
+           pax6-cDNA ............................................................
+                     -         -         -         -         -         -
+
+                 24092     24102     24112     24122     24132     24142
+        pax6-genomic AATGTCTGACTTATAAGGAAAAATGATGATTTGGCTATTTCAGGCCACAGAAAGGTCACT
+                                                                                 
+           pax6-cDNA ............................................................
+                     -         -         -         -         -         -
+
+                 24152     24162     24172     24182     24192     24202
+        pax6-genomic GAATGCCATTCCAAAGAAAATTTAACTTGGTTCTGGTGGGAAAGTTCTTCCAAGTACAGT
+                                                                                 
+           pax6-cDNA ............................................................
+                     -         -         -         -         -         -
+
+                 24212     24222     24232     24242     24252     24262
+        pax6-genomic CAACACTAGAAGCATTTTAAAGGGAATTGGTTGGAGGTAATGGGAGTGGGGAGGTGGGAA
+                                                                                 
+           pax6-cDNA ............................................................
+                     -         -         -         -         -         -
+
+                 24272     24282     24292     24302     24312     24322
+        pax6-genomic CCAGTTTGATGCACAGTTTGGTCAACATATTTTGTGTAGTTCTGGCACAATATGGAAAAT
+                                                                                 
+           pax6-cDNA ............................................................
+                     -         -         -         -         -         -
+
+                 24332     24342     24352     24362     24372     24382
+        pax6-genomic CAACTTACTCTTTCAGAGTTTGAGAGAACCCATTATCCAGATGTGTTTGCCCGAGAAAGA
+                                     ||||||||||||||||||||||||||||||||||||||||||||
+           pax6-cDNA ................agtttgagagaacccattatccagatgtgtttgcccgagaaaga
+                     -         -      1104      1114      1124      1134
+
+                 24392     24402     24412     24422     24432     24442
+        pax6-genomic CTAGCAGCCAAAATAGATCTACCTGAAGCAAGAATACAGGTACCGAGAGACTGTGCAGTT
+                     ||||||||||||||||||||||||||||||||||||||||||                  
+           pax6-cDNA ctagcagccaaaatagatctacctgaagcaagaatacaggta..................
+                  1144      1154      1164      1174      1184         -
+
+                 24452     24462     24472     24482     24492     24502
+        pax6-genomic TCACACTTTGTGATTCATACCATTTGTCTTTCCTAGAGACAGAGGTGCTTGTACAGAGTA
+                                                                                 
+           pax6-cDNA ............................................................
+                     -         -         -         -         -         -
+
+                 24512     24522     24532     24542     24552     24562
+        pax6-genomic CTATTTATTTATAGGACTAATATAATAAAAAGGTTCAGTCTGCTAAATGCTCTGCTGCCA
+                                                                                 
+           pax6-cDNA ............................................................
+                     -         -         -         -         -         -
+
+                 24572     24582     24592     24602     24612     24622
+        pax6-genomic TGGGCGTGGGGAGGGCAGCAGTGGAGGTGCCAAGGTGGGGCTGGGCTCGACGTAGACACA
+                                                                                 
+           pax6-cDNA ............................................................
+                     -         -         -         -         -         -
+
+                 24632     24642     24652     24662     24672     24682
+        pax6-genomic GTGCTAACCTGTCCCACCTGATTTCCAGGTATGGTTTTCTAATCGAAGGGCCAAATGGAG
+                                                    |||||||||||||||||||||||||||||
+           pax6-cDNA ...............................tggttttctaatcgaagggccaaatggag
+                     -         -         -         -      1195      1205
+
+                 24692     24702     24712     24722     24732     24742
+        pax6-genomic AAGAGAAGAAAAACTGAGGAATCAGAGAAGACAGGCCAGCAACACACCTAGTCATATTCC
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+           pax6-cDNA aagagaagaaaaactgaggaatcagagaagacaggccagcaacacacctagtcatattcc
+                  1215      1225      1235      1245      1255      1265
+
+                 24752     24762     24772     24782     24792     24802
+        pax6-genomic TATCAGCAGTAGTTTCAGCACCAGTGTCTACCAACCAATTCCACAACCCACCACACCGGG
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| 
+           pax6-cDNA tatcagcagtagtttcagcaccagtgtctaccaaccaattccacaacccaccacaccgg.
+                  1275      1285      1295      1305      1315      1325
+
+                 24812     24822     24832     24842     24852     24862
+        pax6-genomic TAATTTGAAATACTAATACTACGAATCAATGTCTTTAAACCTGTTTGCTCCGGGCTCTGA
+                                                                                 
+           pax6-cDNA ............................................................
+                     -         -         -         -         -         -
+
+                 24872     24882     24892     24902     24912     24922
+        pax6-genomic CTCTCACTCTGACTACTGTCATTTCTCTTGCCCTCAGTTTCCTCCTTCACATCTGGCTCC
+                                                          |||||||||||||||||||||||
+           pax6-cDNA .....................................tttcctccttcacatctggctcc
+                     -         -         -         -      1337      1347
+
+                 24932     24942     24952     24962     24972     24982
+        pax6-genomic ATGTTGGGCCGAACAGACACAGCCCTCACAAACACCTACAGCGCTCTGCCGCCTATGCCC
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+           pax6-cDNA atgttgggccgaacagacacagccctcacaaacacctacagcgctctgccgcctatgccc
+                  1357      1367      1377      1387      1397      1407
+
+                 24992     25002     25012     25022
+        pax6-genomic AGCTTCACCATGGCAAATAACCTGCCTATGCAA
+                     |||||||||||||||||||||||||||||||||
+           pax6-cDNA agcttcaccatggcaaataacctgcctatgcaa
+                  1417      1427      1437      1447
+
+
